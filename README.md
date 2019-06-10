@@ -1,2 +1,2 @@
-# SpringKothin
-Spring boot with kothin and mysql
+# SpringKotlin
+Spring boot with kotlin and mysql
